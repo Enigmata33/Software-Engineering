@@ -7,5 +7,7 @@ public class Test {
             System.out.println(i);
 
         }
+        int y = 2;
+        System.out.println(y);
     }
 }
