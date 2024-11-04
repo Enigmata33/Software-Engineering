@@ -1,6 +1,9 @@
 public class Abc {
-    public void Abc(String x){
-        this.Abc(x);
+    public Abc(String x) {
+
     }
 
+    public static void main(String[] args) {
+        System.out.println("2024.11.04");
+    }
 }
