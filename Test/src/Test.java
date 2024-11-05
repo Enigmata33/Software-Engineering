@@ -9,5 +9,6 @@ public class Test {
         }
         int y = 2;
         System.out.println(y);
+        int z = 3;
     }
 }
