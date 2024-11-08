@@ -10,5 +10,7 @@ public class Test {
         int y = 2;
         System.out.println(y);
         int z = 3;
+        String name = "woshiJon" ;
+        System.out.println(name);
     }
 }
